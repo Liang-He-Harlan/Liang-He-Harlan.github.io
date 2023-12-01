@@ -1,13 +1,32 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Liang (Harlan) He"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Ph.D. candidate, [McGill University](https://www.mcgill.ca/)
 
+I’m currently a Ph.D. candidate at McGill University. I feel fortunate to have the opportunity to be co-supervised by both Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xue Liu](https://www.mcgill.ca/neuro/alan-c-evans-phd).
+
+## EDUCATION
+----
+2023.09-present: Ph.D. Neuroscience-T [McGill University](https://www.mcgill.ca/), co-supervised by Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xue Liu](https://www.mcgill.ca/neuro/alan-c-evans-phd).
+2021.09-2023.06 ([IPN-UESTC Dual Master's Program](https://www.mcgill.ca/ipn/events/ipn-uestc-dual-masters-program-sponsored-events)): M.Sc. Neuroscience-T [McGill University](https://www.mcgill.ca/), supervised by Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd).
+2020.09-2023.06 ([IPN-UESTC Dual Master's Program](https://www.mcgill.ca/ipn/events/ipn-uestc-dual-masters-program-sponsored-events)): M.Eng. Biomedical Engineering [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm).
+2017.09-2018.06: Exchange Student,  Communication Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)
+2016.09-2020.06: B.Eng Telecommunications Engineering(Excellent Engineer Class) [Sichuan University](https://en.scu.edu.cn/)
+
+## Research Interest:
+----
+1. Brian Folds
+2. Artificial Intelligence for Medical Imaging
+
+
+
+I am fortunate to be advised by Prof Jin L.C. Guo and Prof Xue Liu.
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
