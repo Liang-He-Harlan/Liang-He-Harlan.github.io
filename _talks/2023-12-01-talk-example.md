@@ -2,10 +2,10 @@
 title: "T"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2023-12-01-talk-example
 venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+date: 2023-12-01
+location: "Montreal, Canada"
 ---
 
 [More information here](http://example2.com)
