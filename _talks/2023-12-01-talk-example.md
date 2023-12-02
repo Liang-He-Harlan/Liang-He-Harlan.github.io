@@ -1,5 +1,5 @@
 ---
-title: "T"
+title: "Example"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-12-01-talk-example
