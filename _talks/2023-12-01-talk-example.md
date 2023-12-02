@@ -3,7 +3,7 @@ title: "T"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-12-01-talk-example
-venue: "London School of Testing"
+venue: "McGill University"
 date: 2023-12-01
 location: "Montreal, Canada"
 ---
