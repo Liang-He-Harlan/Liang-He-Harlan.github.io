@@ -21,7 +21,7 @@ I’m currently a Ph.D. candidate at McGill University. I feel fortunate to have
 
 - 2017.09-2018.06: Exchange Student,  Communication Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)
 
-- 2016.09-2020.06: B.Eng., Telecommunications Engineering(Excellent Engineer Class) [Sichuan University](https://en.scu.edu.cn/)
+- 2016.09-2020.06: B.Eng., Telecommunications Engineering (Excellent Engineer Class) [Sichuan University](https://en.scu.edu.cn/)
 
 
 ## Research Interest:
