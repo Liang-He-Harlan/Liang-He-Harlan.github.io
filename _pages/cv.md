@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Just an example!
-
+# Just an example!
+//
+//
+//
 Education
 ======
 
