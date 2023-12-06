@@ -1,8 +1,15 @@
 ---
 title: "My Personal Photos"
-excerpt: "This is the my photo<br/><img src='/images/me5.png'>"
+excerpt: "There are my Personal photos<br/><img src='/images/me6.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. 
-show <br/><img src='/images/me5.png'>
+There are my personal photos.
+
+show <br/><img src='/images/me16.png'>
+show <br/><img src='/images/me9.png'>
+show <br/><img src='/images/me10.png'>
+show <br/><img src='/images/me11.png'>
+show <br/><img src='/images/me8.png'>
+show <br/><img src='/images/me14.png'>
+show <br/><img src='/images/me13.png'>
