@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 This is an item in your portfolio. 
-<br/><img src='/images/me5.png'>
+show <br/><img src='/images/me5.png'>
