@@ -9,15 +9,15 @@ redirect_from:
 ---
 Ph.D. candidate, [McGill University](https://www.mcgill.ca/)
 
-I’m currently a Ph.D. candidate at McGill University. I feel fortunate to have the opportunity to be co-supervised by both Dr. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Dr. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html). I sincerely appreciate Dr. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Dr. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm). Their careful guidance helped me take the first step from curriculum to scientific research, enabling me to obtain the master's degree.
+I’m currently a Ph.D. candidate at McGill University. I feel fortunate to have the opportunity to be co-supervised by both Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html). I sincerely appreciate Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm). Their careful guidance helped me take the first step from curriculum to scientific research, enabling me to obtain the master's degree.
 
 ## EDUCATION
 ----
-- 2023.09-present: Ph.D., Neuroscience-T [McGill University](https://www.mcgill.ca/), co-supervised by Dr. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Dr. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html).
+- 2023.09-present: Ph.D., Neuroscience-T [McGill University](https://www.mcgill.ca/), co-supervised by Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html).
 
-- 2021.09-2023.06 ([IPN-UESTC Dual Master's Program](https://www.mcgill.ca/ipn/events/ipn-uestc-dual-masters-program-sponsored-events)): M.Sc., Neuroscience-T [McGill University](https://www.mcgill.ca/), supervised by Dr. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd).
+- 2021.09-2023.06 ([IPN-UESTC Dual Master's Program](https://www.mcgill.ca/ipn/events/ipn-uestc-dual-masters-program-sponsored-events)): M.Sc., Neuroscience-T [McGill University](https://www.mcgill.ca/), supervised by Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd).
 
-- 2020.09-2023.06 ([IPN-UESTC Dual Master's Program](https://www.mcgill.ca/ipn/events/ipn-uestc-dual-masters-program-sponsored-events)): M.Eng., Biomedical Engineering [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Dr. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm).
+- 2020.09-2023.06 ([IPN-UESTC Dual Master's Program](https://www.mcgill.ca/ipn/events/ipn-uestc-dual-masters-program-sponsored-events)): M.Eng., Biomedical Engineering [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm).
 
 - 2017.09-2018.06: Exchange Student,  Communication Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
