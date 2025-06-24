@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liang (Harlan) He / Personal Homepage"
+title                    : "Liang He / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Liang He"
 description              : &description "personal description"
