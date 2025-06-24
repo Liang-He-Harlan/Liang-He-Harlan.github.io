@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liang (Harlan) He"
+title: "Liang He"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 Ph.D. candidate, [McGill University](https://www.mcgill.ca/)
 
-I’m currently a Ph.D. candidate at McGill University. I feel fortunate to have the opportunity to be co-supervised by both Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html). I sincerely appreciate Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm). Their careful guidance helped me take the first step from curriculum to scientific research, enabling me to obtain the master's degree.
+I’m currently a Ph.D. student at McGill University. I feel fortunate to have the opportunity to be co-supervised by both Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html). I sincerely appreciate Prof. [Alan C Evans](https://www.mcgill.ca/neuro/alan-c-evans-phd) and Prof. [Xi Jiang](https://faculty.uestc.edu.cn/jiangxi/en/index.htm). Their careful guidance helped me take the first step from curriculum to scientific research, enabling me to obtain the master's degree.
 
 ## EDUCATION
 ----
